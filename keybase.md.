@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am valeria078910 on github.
+  * I am taaa (https://keybase.io/taaa) on keybase.
+  * I have a public key ASCFZijc7y4t3w2TkpRb7TteDbUTTj-V3N_wU65bQG-XbAo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120856628dcef2e2ddf0d9392945bed3b5e0db5134e3f95dcdff053ae5b406f976c0a",
+      "host": "keybase.io",
+      "kid": "0120856628dcef2e2ddf0d9392945bed3b5e0db5134e3f95dcdff053ae5b406f976c0a",
+      "uid": "e6b10e1350a17b64bfe55989ec4e0019",
+      "username": "taaa"
+    },
+    "merkle_root": {
+      "ctime": 1576741139,
+      "hash": "dfe7a9eb52358b43cbea8fd992454e2ec74fbc87e6ccc6785c1ca9473a0a477cc6c181956bf38ebe87de9a2732ea2b5fff78979b4c778caf659ac109b57a4b37",
+      "hash_meta": "3b8e31f0c5278bf6db52cbfa64ab5556bbbfef2d825ab92426df97f60fa9c2fc",
+      "seqno": 13796232
+    },
+    "service": {
+      "entropy": "SgJSojouToKJFy5HIF5hY/eg",
+      "name": "github",
+      "username": "valeria078910"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.1.0"
+  },
+  "ctime": 1576741149,
+  "expire_in": 504576000,
+  "prev": "b389607a860d613d3f4cec7f74037de2c0b00572120df7e59b8ccefa258d0e28",
+  "seqno": 19,
+  "tag": "signature"
+}
+```
+
+with the key [ASCFZijc7y4t3w2TkpRb7TteDbUTTj-V3N_wU65bQG-XbAo](https://keybase.io/taaa), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEghWYo3O8uLd8Nk5KUW+07Xg21E04/ldzf8FOuW0Bvl2wKp3BheWxvYWTESpcCE8Qgs4lgeoYNYT0/TOx/dAN94sCwBXISDfflm4zO+iWNDijEIID+GTcD9KTsNGKEEZculOCntiCilogEAlUq+dSoDa5FAgHCo3NpZ8RAIZC4ruW4RAooIfoyhRVg2MKQXcCG+cHbkI7u0IZZQWG//bS/8LSjZnAw5fnXHKOfbq0zm89pa7h+RGwpAaSZBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJOKpnHdjlkM70zsBctNOpz/GR7gdexo/Y5njm7M/M3oo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/taaa
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id taaa
+```
